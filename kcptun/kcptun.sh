@@ -24,10 +24,10 @@ INIT_VERSION=3
 
 KCPTUN_INSTALL_DIR='/usr/local/kcptun'
 KCPTUN_LOG_DIR='/var/log/kcptun'
-# kcptun 文件夹下有 releases 同名文件和文件夹，文件写有最新及历史配置
-KCPTUN_RELEASES_URL='https://raw.githubusercontent.com/SuconChu/shell-scripts/master/kcptun/releases'
+# kcptun 文件夹下有 release 文件，写有最新及历史配置
+KCPTUN_RELEASES_URL='https://raw.githubusercontent.com/SuconChu/shell-scripts/master/kcptun/release'
 # releases 文件夹下的latest文件，"正常来说"存放最新版本配置
-KCPTUN_LATEST_RELEASE_URL='https://raw.githubusercontent.com/SuconChu/shell-scripts/e9b6d1abbeb8b5e629493d9c57b214642d244900/kcptun/latest'
+KCPTUN_LATEST_RELEASE_URL='https://raw.githubusercontent.com/SuconChu/shell-scripts/master/kcptun/releases/latest'
 KCPTUN_TAGS_URL='https://github.com/xtaci/kcptun/tags'
 
 BASE_URL='https://github.com/kuoruan/shell-scripts/raw/master/kcptun'
